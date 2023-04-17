@@ -56,7 +56,7 @@ Water supplies are usually inadequate in regions of the Philippines, and as a re
 Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research that is based on observation and measurement of phenomena, as directly experienced by the researcher. The data thus gathered may be compared against a theory or hypothesis, but the results are still based on real life experience. [^5] By that different analysis and conclusions will be provided about the issue of water scarcity in the Philippines. 
 
 ## Expected Output
-
+The purpose of this project is to collect information from many sources in order to analyze it, come to a conclusion, and address the Philippines' water shortage. The people who reside in this nation would be the first to profit if the research's findings were effective since it would provide a steady supply of clean water without requiring your attention. 
 ## Sources : 
 [^1]:*https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
 [^2]:*https://www.unicef.org/philippines/press-releases/two-billion-people-lack-safe-drinking-water-more-twice-lack-safe-sanitation?fbclid=IwAR0mJfwM5HLGglOJSTUqfoRrGftAMG1NAEsxcyKI0oBrdEIjaPNfHCnZqO8*
