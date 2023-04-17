@@ -25,6 +25,8 @@ sanitation facilities to new citizens.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Safe drinking water and proper sanitation facilities are essential to health and wellness in the communities. Safe water and sanitation is especially linked to young children’s nutrition and ability to stay healthy and focused in school. Diseases caused by unsafe or unhygienic practices decrease children’s chances to successful school completion and healthy growth,” said UNICEF Philippines Representative Lotta Sylwander. “In rural areas where poverty is high, inequalities are aggravated by this cycle of and link between the lack of access to safe drinking water and sanitation, and poor health and low productivity.”
 
+## Problem Statement 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Water scarcity is the lack of fresh water resources to meet the standard water demand. There are two types of water scarcity: physical water scarcity and economic water scarcity. Physical water scarcity is where there is not enough water to meet all demands, including that needed for ecosystems to function.
 
 ## Sources : 
 *https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
