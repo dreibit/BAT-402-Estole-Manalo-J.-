@@ -9,7 +9,7 @@ home sanitary facilities that are safely managed. Despite its
 increasing economy, the Philippines confronts substantial water and
 sanitation access difficulties. The country is quickly urbanizing, and
 its expanding cities are struggling to provide appropriate water and
-sanitation facilities to new citizens.[^1]
+sanitation facilities to new citizens[^1].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Two billion people lack safe drinking water, more than twice lack safe sanitation**
 
@@ -38,6 +38,6 @@ sanitation facilities to new citizens.[^1]
 
 
 ## Sources : 
-[^1]*https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
+[^1]:*https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
 *https://www.unicef.org/philippines/press-releases/two-billion-people-lack-safe-drinking-water-more-twice-lack-safe-sanitation?fbclid=IwAR0mJfwM5HLGglOJSTUqfoRrGftAMG1NAEsxcyKI0oBrdEIjaPNfHCnZqO8*
 *https://wwf.org.ph/resource-center/story-archives-2020/proof-of-importance-of-forest-conservation/*
