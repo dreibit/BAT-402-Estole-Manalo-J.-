@@ -36,6 +36,11 @@ sanitation facilities to new citizens[^1].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to protect the water supply of Metro Manila, the forests of Ipo Watershed require both protection and rehabilitation. Enforcement against illegal logging and land-use conversion is crucial to protecting the integrity of the forest, while conservation practices that ensure planted trees reach adulthood is needed to help the watershed recover. Water shortages now loom over the nation’s capital as it recovers from the damage brought by Typhoon Ulysses. As this latest crisis rolls out, conservation organizations like WWF-Philippines highlight the need for nature-based solutions and healthy forests in order to lessen the impacts of devastating storms.[^4]
 
+## Significance of the Proposed Project
+
+## Methods
+
+## Expected Output
 
 ## Sources : 
 [^1]:*https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
