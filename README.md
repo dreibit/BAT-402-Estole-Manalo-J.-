@@ -44,14 +44,13 @@ sanitation facilities to new citizens[^1].
 ## Significance of the Proposed Project
 Water supplies are usually inadequate in regions of the Philippines, and as a result, supplies are frequently shut down to maintain capacity. Six to eight months of the year 2021 are largely dry: during those months, major water shortages occur, and people rely on potentially unsafe drinking water sources. They may also lack sufficient water for washing in order to maintain basic hygiene and avoid disease infection. In some sections of the country, such insufficient and sporadic water supply has major health consequences[^6]. This project will provide variety of data sets demonstrating the clean water supply in the Philippines. This research will be useful for the following purposes:
 
-The Students. For those students who might need data obtained from the project. This will provide them a thorough understanding of the Philippines' clean water supply 
-throughout the record.
+**The Students**. For those students who might need data obtained from the project. This will provide them a thorough understanding of the Philippines' clean water supply throughout the record.
 
-The Teachers. For teachers who will be teaching about clean water supply in the Philippines. The data gathered for the project will be used in their classes.
+**The Teachers**. For teachers who will be teaching about clean water supply in the Philippines. The data gathered for the project will be used in their classes.
 
-The Government Officials. For selected government officials who will need data for a future projects involving clean water supply.
+**The Government Officials**. For selected government officials who will need data for a future projects involving clean water supply.
 
-The Future Researchers. To serve as background knowledge about clean water supply and water scarcity in the Philippines to the researchers. The analytics for this project can provide them with new insights, suggestions, and conclusions.
+**The Future Researchers**. To serve as background knowledge about clean water supply and water scarcity in the Philippines to the researchers. The analytics for this project can provide them with new insights, suggestions, and conclusions.
 
 ## Methods
 Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research that is based on observation and measurement of phenomena, as directly experienced by the researcher. The data thus gathered may be compared against a theory or hypothesis, but the results are still based on real life experience. [^5] By that different analysis and conclusions will be provided about the issue of water scarcity in the Philippines. 
