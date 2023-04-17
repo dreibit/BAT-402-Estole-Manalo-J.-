@@ -42,6 +42,16 @@ sanitation facilities to new citizens[^1].
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to protect the water supply of Metro Manila, the forests of Ipo Watershed require both protection and rehabilitation. Enforcement against illegal logging and land-use conversion is crucial to protecting the integrity of the forest, while conservation practices that ensure planted trees reach adulthood is needed to help the watershed recover. Water shortages now loom over the nation’s capital as it recovers from the damage brought by Typhoon Ulysses. As this latest crisis rolls out, conservation organizations like WWF-Philippines highlight the need for nature-based solutions and healthy forests in order to lessen the impacts of devastating storms.[^4]
 
 ## Significance of the Proposed Project
+Water supplies are usually inadequate in regions of the Philippines, and as a result, supplies are frequently shut down to maintain capacity. Six to eight months of the year 2021 are largely dry: during those months, major water shortages occur, and people rely on potentially unsafe drinking water sources. They may also lack sufficient water for washing in order to maintain basic hygiene and avoid disease infection. In some sections of the country, such insufficient and sporadic water supply has major health consequences[^6]. This project will provide variety of data sets demonstrating the clean water supply in the Philippines. This research will be useful for the following purposes:
+
+The Students. For those students who might need data obtained from the project. This will provide them a thorough understanding of the Philippines' clean water supply 
+throughout the record.
+
+The Teachers. For teachers who will be teaching about clean water supply in the Philippines. The data gathered for the project will be used in their classes.
+
+The Government Officials. For selected government officials who will need data for a future projects involving clean water supply.
+
+The Future Researchers. To serve as background knowledge about clean water supply and water scarcity in the Philippines to the researchers. The analytics for this project can provide them with new insights, suggestions, and conclusions.
 
 ## Methods
 Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research that is based on observation and measurement of phenomena, as directly experienced by the researcher. The data thus gathered may be compared against a theory or hypothesis, but the results are still based on real life experience. [^5] By that different analysis and conclusions will be provided about the issue of water scarcity in the Philippines. 
@@ -54,3 +64,4 @@ Conducting an empirical reaseach is an appropriate method for this topic. Empiri
 [^3]:*https://en.wikipedia.org/wiki/Water_scarcity*
 [^4]:*https://wwf.org.ph/resource-center/story-archives-2020/proof-of-importance-of-forest-conservation/*
 [^5]: https://www.emeraldgrouppublishing.com/how-to/research-methods/conduct-empirical-research#:~:text=Empirical%20research%20is%20research%20that,based%20on%20real%20life%20experience.
+[^6]:*https://www.bgs.ac.uk/news/improving-water-security-in-the-philippines/
