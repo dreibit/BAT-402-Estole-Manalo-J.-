@@ -3,7 +3,7 @@
 ![Heading](https://user-images.githubusercontent.com/113676687/232465639-12887662-1866-4cdd-a3f8-7221966806a6.jpg)
 
 ## Introduction 
-&nbsp;&nbsp;&nbsp;&nbsp;Out of the 109 million people that live there, 57 million (52% of the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of the 109 million people that live there, 57 million (52% of the
 population) do not have access to a dependable supply of water that
 is securely managed, and 43 million (39%) do not have access to
 home sanitary facilities that are safely managed. Despite its
