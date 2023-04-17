@@ -1,6 +1,6 @@
 # Project Proposal
 
-![Heading](https://user-images.githubusercontent.com/113676687/232465639-12887662-1866-4cdd-a3f8-7221966806a6.jpg)
+<p align="center">![Heading](https://user-images.githubusercontent.com/113676687/232465639-12887662-1866-4cdd-a3f8-7221966806a6.jpg)</p>
 
 ## Introduction 
 Out of the 109 million people that live there, 57 million (52% of the
