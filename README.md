@@ -39,7 +39,7 @@ sanitation facilities to new citizens[^1].
 ## Significance of the Proposed Project
 
 ## Methods
-Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research that is based on observation and measurement of phenomena, as directly experienced by the researcher. The data thus gathered may be compared against a theory or hypothesis, but the results are still based on real life experience. [^5] By that different analysis and conclusions will be made about the issue of water scarcity in the Philippines. 
+Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research that is based on observation and measurement of phenomena, as directly experienced by the researcher. The data thus gathered may be compared against a theory or hypothesis, but the results are still based on real life experience. [^5] By that different analysis and conclusions will be provided about the issue of water scarcity in the Philippines. 
 
 ## Expected Output
 
