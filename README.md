@@ -14,6 +14,5 @@ sanitation facilities to new citizens.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Two billion people lack safe drinking water, more than twice lack safe sanitation**
 
-
-#### Sources
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW YORK, 17 July 2017 – Some 3 in 10 people worldwide, or 2.1 billion, lack access to safe drinking water at home; and 6 in 10, or 4.4 billion people lack safely managed sanitation, according to a new report by the World Health Organization and UNICEF. The Joint Monitoring Programme (JMP) report, Progress on Drinking Water, Sanitation and Hygiene: 2017 Update and Sustainable Development Goal Baselines, released last week, presents the first global assessment of “safely managed” drinking water and sanitation services, particularly in rural areas.
 *https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
