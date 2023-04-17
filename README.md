@@ -1,8 +1,6 @@
 # Project Title : Clean Water Supply and End Water Scarcity in Philippines
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SDG6](https://user-images.githubusercontent.com/113676687/232476683-0b74488b-cf99-4578-a5e8-c14c614ff8cf.JPG)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BAT 404 – ANALYTICS TECHNIQUES AND TOOLS**
-
 ## Introduction 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of the 109 million people that live there, 57 million (52% of the
 population) do not have access to a dependable supply of water that
@@ -26,7 +24,6 @@ sanitation facilities to new citizens.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around 6 million Filipinos also still practice open defecation, and some 20 million lack access to basic sanitation facilities. While over 75 million Filipinos have basic sanitation service at the national level, there are significant inequalities, particularly with regional coverage ranging only from 22% to 86%.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Safe drinking water and proper sanitation facilities are essential to health and wellness in the communities. Safe water and sanitation is especially linked to young children’s nutrition and ability to stay healthy and focused in school. Diseases caused by unsafe or unhygienic practices decrease children’s chances to successful school completion and healthy growth,” said UNICEF Philippines Representative Lotta Sylwander. “In rural areas where poverty is high, inequalities are aggravated by this cycle of and link between the lack of access to safe drinking water and sanitation, and poor health and low productivity.”
-
 
 #### Sources : 
 *https://water.org/our-impact/where-we-work/philippines/?fbclid=IwAR3ihtLc5xwTLPiAyeUoWNgtbADX9N-8JwuSEIjXxS2srrrQhYJ1BEZAz4g*
