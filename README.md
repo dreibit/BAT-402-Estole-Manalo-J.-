@@ -39,6 +39,7 @@ sanitation facilities to new citizens[^1].
 ## Significance of the Proposed Project
 
 ## Methods
+Conducting an empirical reaseach is an appropriate method for this topic. Empirical research is research using empirical evidence. It is also a way of gaining knowledge by means of direct and indirect observation or experience. Empiricism values some research more than other kinds. Empirical evidence can be analyzed quantitatively or qualitatively.[^5] By that different analysis and conclusions will be made about the issue of water scarcity in the Philippines. 
 
 ## Expected Output
 
@@ -47,3 +48,4 @@ sanitation facilities to new citizens[^1].
 [^2]:*https://www.unicef.org/philippines/press-releases/two-billion-people-lack-safe-drinking-water-more-twice-lack-safe-sanitation?fbclid=IwAR0mJfwM5HLGglOJSTUqfoRrGftAMG1NAEsxcyKI0oBrdEIjaPNfHCnZqO8*
 [^3]:*https://en.wikipedia.org/wiki/Water_scarcity*
 [^4]:*https://wwf.org.ph/resource-center/story-archives-2020/proof-of-importance-of-forest-conservation/*
+[^5]: https://l.facebook.com/l.php?u=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FEmpirical_research%3Ffbclid%3DIwAR1G9CP1wkLzqJggzdJoTzfxV_ALvDJSHBpQe-OEmzYF61iQG5C6ImWcAl0&h=AT3LfCQVKQmX3oNoOR8dUBNoCftGP6RIaJjNdWV2WznG_ZHwEmnrDgLVrIqIMR-j7yPg25LfiY9APKTUXBcJsN-N58I2s0d3m6oeE5onS4IpDrTprY0xpzh4S98s2OrE-xZsdg
