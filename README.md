@@ -27,7 +27,7 @@ sanitation facilities to new citizens[^1].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Safe drinking water and proper sanitation facilities are essential to health and wellness in the communities. Safe water and sanitation is especially linked to young children’s nutrition and ability to stay healthy and focused in school. Diseases caused by unsafe or unhygienic practices decrease children’s chances to successful school completion and healthy growth,” said UNICEF Philippines Representative Lotta Sylwander. “In rural areas where poverty is high, inequalities are aggravated by this cycle of and link between the lack of access to safe drinking water and sanitation, and poor health and low productivity.”[^2]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1](https://user-images.githubusercontent.com/113676687/232490977-6c05bd01-9142-41f2-b3fd-78c324823236.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1](https://user-images.githubusercontent.com/113676687/232490977-6c05bd01-9142-41f2-b3fd-78c324823236.jpg)
 
 
 ## Problem Statement 
