@@ -1,5 +1,7 @@
 # Project Title : Clean Water Supply and End Water Scarcity in Philippines
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SDG6](https://user-images.githubusercontent.com/113676687/232476683-0b74488b-cf99-4578-a5e8-c14c614ff8cf.JPG)
+# Project Members
+Jemuel Manalo And James Andreison Estole
 
 ## Introduction 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of the 109 million people that live there, 57 million (52% of the
